@@ -1,4 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌐 Portfolio Website
+
+This is my **Portfolio Website** built using **Next.js, Node.js, Tailwind CSS, and Nodemailer**.  
+It serves as a personal space to showcase my **Profile, Projects, About Me, and Contact information**.  
+
+---
+
+## 📖 User Manual
+
+### 🔹 Home / Profile
+- Displays my **introduction**, skills, and quick highlights.  
+- Includes **navigation** to Projects, About, and Contact pages.  
+
+### 🔹 Projects
+- Showcases my development projects with:  
+  - 📂 Project Title  
+  - 📝 Short Description  
+  - 🔗 GitHub Repo / Live Demo Links  
+
+### 🔹 About
+- A brief section about me, my background, and goals.  
+- Highlights my journey and what I’m passionate about.  
+
+### 🔹 Contact
+- Includes a **contact form** built with **Nodemailer**.  
+- Users can directly send me messages via email.  
+- Input fields: `Name`, `Email`, `Message`.  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** Next.js, React, Tailwind CSS  
+- **Backend:** Node.js (API Routes in Next.js)  
+- **Email Service:** Nodemailer  
+- **Deployment:** Vercel  
+
+---This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
